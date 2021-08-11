@@ -1,0 +1,43 @@
+img{
+	width:200;
+	border-radius: 50%;
+}
+body {
+  background-color: lightgrey;
+  color: ;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font: "Lucida Handwriting;
+  
+  
+}
+h2{
+	background-color: black;
+	color: blue;
+	font-size: 50 px;
+}
+h3 {
+	color: green;
+	font-family:Fantasy;
+	font-size: 20 px;
+}
+h4 {
+	color: green;
+	font-family:Fantasy;
+	font-size: 20 px;
+}
+h5 {
+	color:green;
+	font-family:Fantasy;
+	font-size: 20 px;
+}
+p {
+  font-family: Cursive;
+  font-size: 15px;
+}
